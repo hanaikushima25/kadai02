@@ -15,7 +15,7 @@
 ```
 2.リポジトリをクローンする
 ```
- git clone git@github.com:hanaikushima25/mypkg.git
+ git clone git@github.com:hanaikushima25/kadai02.git
 ```
 3.一つ前のリポジトリに戻る
 ```
