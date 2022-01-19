@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+
+#BSD 3-Clause Lisence
+#Copyright (c) 2021 Ryuichi Ueda. All rights reserved.
+
+
 import rospy
 from std_msgs.msg import Int32
 
